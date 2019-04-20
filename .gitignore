@@ -1,6 +1,5 @@
 # My
-#node_modules/**
-dist/**
+dist/
 
 
 ## Ignore Visual Studio temporary files, build results, and
